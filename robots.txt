@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://uzaygokay.github.io/sitemap.xml
