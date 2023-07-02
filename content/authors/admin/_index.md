@@ -14,10 +14,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student in Life Science Informatics 
+role: Computer Science PhD Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Hertz Chair for Artificial Intelligence and Neuroscience
+    url: https://www.caian.uni-bonn.de/en
+  
   - name: University of Bonn
     url: https://www.uni-bonn.de/en
 
@@ -33,6 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+      - course: PhD in Computer Science
+      institution: University of Bonn
+      year: 2023
     - course: MSc in Life Science Informatics
       institution: University of Bonn
       year: 2019
