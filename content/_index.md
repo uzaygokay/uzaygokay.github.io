@@ -231,16 +231,13 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        If you want to reach out to me, you can use the form below.
+        #If you want to reach out to me, you can use the form below.
       # Contact (add or remove contact options as necessary)
-      #email: test@example.org
+      email: u.goekay@uni-bonn.de
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Am Propsthof 49
-    #Hertz Chair for Artificial Intelligence and Neuroscience
-    #TRA - Life and Health
-    #University of Bonn
+        street: Hertz Chair for Artificial Intelligence and Neuroscience, TRA - Life and Health, University of Bonn, Am Propsthof 49
         city: Bonn
         region: Germany
         #postcode: '53121'
@@ -250,11 +247,11 @@ sections:
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/uzaygokay'
+      #contact_links:
+      #  - icon: twitter
+      #    icon_pack: fab
+      #    name: DM Me
+      #    link: 'https://twitter.com/uzaygokay'
         #- icon: skype
         #  icon_pack: fab
         #  name: Skype Me
