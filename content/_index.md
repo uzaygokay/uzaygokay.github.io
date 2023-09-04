@@ -237,10 +237,13 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        #street: 450 Serra Mall
+        street: Hertz Chair for Artificial Intelligence and Neuroscience
+    TRA Life and Health
+    University of Bonn
+    Am Propsthof 49
         city: Düsseldorf
         region: Germany
-        #postcode: '40215'
+        postcode: '53121'
         country: Germany
         country_code: DE
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
