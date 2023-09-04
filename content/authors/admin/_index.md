@@ -86,10 +86,10 @@ email: 'u.goekay@uni-bonn.de'
 highlight_name: true
 ---
 I am a first-year PhD student in the [Institute of Computer Science](https://www.informatik.uni-bonn.de/en/) at <br> 
-[The University of Bonn](https://www.uni-bonn.de/en) supervised by [Prof. Dominik Bach](https://www.caian.uni-bonn.de/en/team/pi) and 
+[The University of Bonn](https://www.uni-bonn.de/en) supervised by [Prof. Dominik Bach](https://www.caian.uni-bonn.de/en/team/pi) and <br>
 [Prof. Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). My research revolves around the video understanding task, with a particular focus on unsupervised representation learning for temporal action segmentation within videos.
 
-Previously, I worked as a research assistant at [Fraunhofer SCAI](https://www.scai.fraunhofer.de/en.html) where I specialized in biomedical text mining and supervised by 
+Previously, I worked as a research assistant at [Fraunhofer SCAI](https://www.scai.fraunhofer.de/en.html) where I specialized in biomedical text mining and supervised by <br>
 [Prof. Holger Fröhlich](https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html). Specifically, I implemented and explored various active learning strategies within the context of BERT-based large language models.
 
 {style="text-align: justify;"}
