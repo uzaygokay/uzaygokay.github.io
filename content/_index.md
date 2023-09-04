@@ -237,10 +237,10 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Hertz Chair for Artificial Intelligence and Neuroscience
-    TRA - Life and Health
-    University of Bonn
-    Am Propsthof 49
+        street: Am Propsthof 49
+    #Hertz Chair for Artificial Intelligence and Neuroscience
+    #TRA - Life and Health
+    #University of Bonn
         city: Bonn
         region: Germany
         #postcode: '53121'
