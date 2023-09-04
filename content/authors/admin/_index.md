@@ -85,7 +85,7 @@ email: 'u.goekay@uni-bonn.de'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a first-year PhD student in the [Institute of Computer Science](https://www.informatik.uni-bonn.de/en/) at 
+I am a first-year PhD student in the [Institute of Computer Science](https://www.informatik.uni-bonn.de/en/) at\ 
 [The University of Bonn](https://www.uni-bonn.de/en) supervised by [Prof. Dominik Bach](https://www.caian.uni-bonn.de/en/team/pi) and 
 [Prof. Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). My research revolves around the video understanding task, with a particular focus on unsupervised representation learning for temporal action segmentation within videos.
 
